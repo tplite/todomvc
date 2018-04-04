@@ -7,7 +7,7 @@ module.exports = {
     rules: [
       {
         test: /\.tpl$/,
-        loader: "tplite/loader"
+        loader: "tplite-loader"
       }
     ]
   }
